@@ -1,0 +1,5 @@
+{"name":"Yellorite","dimension":-29,"chanceToSpawn":5,"oreid":"BigReactors:YelloriteOre","meta":0,"replaceid":"GalacticraftMars:tile.mars","minY":5,"maxY":60}
+{"name":"Uranium","dimension":-29,"chanceToSpawn":5,"oreid":"IC2:blockOreUran","meta":0,"replaceid":"GalacticraftMars:tile.mars","minY":5,"maxY":60}
+{"name":"Desh","dimension":-29,"chanceToSpawn":5,"oreid":"GalacticraftMars:tile.mars","meta":2,"replaceid":"GalacticraftMars:tile.mars","minY":5,"maxY":60}
+{"name":"Lunarium","dimension":-28,"chanceToSpawn":7,"oreid":"GalacticraftCore:tile.moonBlock","meta":2,"replaceid":"GalacticraftCore:tile.moonBlock","minY":5,"maxY":40}
+{"name":"Titanium","dimension":-30,"chanceToSpawn":20,"oreid":"GalacticraftMars:tile.asteroidsBlock","meta":4,"replaceid":"GalacticraftMars:tile.asteroidsBlock","minY":0,"maxY":250}
