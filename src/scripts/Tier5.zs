@@ -1,6 +1,6 @@
 # Tier 4
 val mecontroller = <appliedenergistics2:tile.BlockController>;
-val quarry = <BuildCraft|Factory:machineBlock>;
+val quarry = <BuildCraft|Builders:machineBlock>;
 val enderium = <ThermalFoundation:material:44>;
 val miner = <IC2:blockMachine:7>;
 val enderpouch = <EnderStorage:enderPouch>;
@@ -81,8 +81,8 @@ val glassfibre = <IC2:itemCable:9>;
 val titaniumIngot = <ore:ingotTitanium>;
 val unstableIngot = <ore:ingotUnstable>;
 
-val laserdrill = <MineFactoryReloaded:tile.mfr.machine.2>;
-val plasticsheet = <MineFactoryReloaded:item.mfr.plastic.sheet>;
+val laserdrill = <MineFactoryReloaded:machine.2>;
+val plasticsheet = <MineFactoryReloaded:plastic.sheet>;
 val illuminator = <ThermalExpansion:Light>;
  
 val angelring = <ExtraUtilities:angelRing>;

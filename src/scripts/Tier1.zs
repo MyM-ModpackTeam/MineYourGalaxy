@@ -1,6 +1,6 @@
 #Tier 4
 val mecontroller = <appliedenergistics2:tile.BlockController>;
-val quarry = <BuildCraft|Factory:machineBlock>;
+val quarry = <BuildCraft|Builders:machineBlock>;
 val enderium = <ThermalFoundation:material:44>;
 val miner = <IC2:blockMachine:7>;
 val enderpouch = <EnderStorage:enderPouch>;
@@ -79,7 +79,7 @@ val glassfibre = <IC2:itemCable:9>;
 val titaniumIngot = <ore:ingotTitanium>;
 val unstableIngot = <ore:ingotUnstable>;
 
-val plasticsheet = <MineFactoryReloaded:item.mfr.plastic.sheet>;
+val plasticsheet = <MineFactoryReloaded:plastic.sheet>;
 val illuminator = <ThermalExpansion:Light>;
  
 #Tier 1
@@ -126,8 +126,8 @@ fishtrap.addShiftTooltip(format.darkPurple("Requires materials"));
 fishtrap.addShiftTooltip(format.darkPurple("from ") + format.yellow("Nether"));
 
 
-recipes.remove(<Railcraft:tile.railcraft.machine.alpha>);
-recipes.remove(<Railcraft:tile.railcraft.machine.alpha:2>);
+recipes.remove(<Railcraft:machine.alpha>);
+recipes.remove(<Railcraft:machine.alpha:2>);
 
 #remove others
 recipes.remove(<TConstruct:ToolForgeBlock:1>);
