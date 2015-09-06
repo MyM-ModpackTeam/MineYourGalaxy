@@ -1,6 +1,6 @@
 #  Tier 4
 val mecontroller = <appliedenergistics2:tile.BlockController>;
-val quarry = <BuildCraft|Factory:machineBlock>;
+val quarry = <BuildCraft|Builders:machineBlock>;
 val enderium = <ThermalFoundation:material:44>;
 val miner = <IC2:blockMachine:7>;
 val enderpouch = <EnderStorage:enderPouch:*>;
