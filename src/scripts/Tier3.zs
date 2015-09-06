@@ -44,6 +44,7 @@ val signalumBlend = <ThermalFoundation:material:42>;
 val turtle = <ComputerCraft:CC-Turtle>;
 val advturtle = <ComputerCraft:CC-TurtleAdvanced>;
 val iron = <ore:ingotIron>;
+val drill = <ImmersiveEngineering:drill>;
 
 recipes.remove(turtle);
 recipes.addShaped(turtle,

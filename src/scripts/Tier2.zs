@@ -41,6 +41,7 @@ val dustSilver = <ore:dustSilver>;
 val dustCopper = <ore:dustCopper>;
 val redstoneBucket = <ThermalFoundation:bucket>;
 val signalumBlend = <ThermalFoundation:material:42>;
+val drill = <ImmersiveEngineering:drill>;
 
 
 

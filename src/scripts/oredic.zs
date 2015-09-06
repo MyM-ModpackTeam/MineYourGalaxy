@@ -1,5 +1,20 @@
 import mods.nei.NEI;
 
+#oredic
+val copper =(<ore:copper>);
+val steel =(<ore:steel>);
+steel.add(<Railcraft:ingot:0>);
+steel.add(<ImmersiveEngineering:metal:7>);
+steel.add(<TConstruct:materials:16>);
+copper.add(<ImmersiveEngineering:metal:0>);
+copper.add(<ThermalFoundation:material:64>);
+copper.add(<TConstruct:materials:9>);
+copper.add(<Railcraft:ingot:1>);
+copper.add(<ProjRed|Core:projectred.core.part:52>);
+copper.add(<IC2:itemIngot:0>);
+copper.add(<GalacticraftCore:item.basicItem:3>);
+copper.add(<Forestry:ingotCopper>);
+
 #charcoal
 recipes.remove(<minecraft:coal:1>);
 furnace.remove(<minecraft:coal:1>);
@@ -15,8 +30,3 @@ NEI.hide(<ImmersiveEngineering:stoneDevice:1>);
 val Blastfurnace = <ImmersiveEngineering:stoneDevice:2>;
 recipes.remove(Blastfurnace);
 NEI.hide(<ImmersiveEngineering:stoneDevice:2>);
-
-#quartz dust
-val quartz1 =(<ImmersiveEngineering:metal:18>);
-val quartz2 =(<appliedenergistics2:item.ItemMultiMaterial:3>);
-recipes.addShapeless(quartz2, [quartz1]);

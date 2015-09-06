@@ -24,6 +24,7 @@ val ic2advancedcircuit = <IC2:itemPartCircuitAdv>;
 val redstone = <ore:dustRedstone>;
 val glowstone = <ore:dustGlowstone>;
 val lapis = <ore:gemLapis>;
+val drill = <ImmersiveEngineering:drill>;
 
 
 val elecgear = <ore:gearElectrum>;
@@ -143,3 +144,15 @@ recipes.addShaped(ic2advancedcircuit,
 ic2advancedcircuit.addTooltip(format.darkAqua(format.italic("<Shift for Galaxy Progression>")));
 ic2advancedcircuit.addShiftTooltip(format.darkPurple("Requires materials"));
 ic2advancedcircuit.addShiftTooltip(format.darkPurple("from ") + format.yellow("Mars"));
+
+#Recipe change Drill
+recipes.remove(drill);
+recipes.addShaped(drill,
+ [[desh, null, <ImmersiveEngineering:material:9>],
+  [null, <ImmersiveEngineering:metalDecoration:5>, <ImmersiveEngineering:material:9>],
+  [<ImmersiveEngineering:material:12>, null, desh]]);
+drill.addTooltip(format.darkAqua(format.italic("<Shift for Galaxy Progression>")));
+drill.addShiftTooltip(format.darkPurple("Requires materials"));
+drill.addShiftTooltip(format.darkPurple("from ") + format.yellow("Mars"));
+
+
