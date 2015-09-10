@@ -3,7 +3,6 @@ import mods.nei.NEI;
 #charcoal
 recipes.remove(<minecraft:coal:1>);
 furnace.remove(<minecraft:coal:1>);
-mods.thermalexpansion.Furnace.removeRecipe(<minecraft:coal:1>);
 mods.immersiveengineering.CokeOven.removeRecipe(<minecraft:coal:1>);
 
 #Coke oven
