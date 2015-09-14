@@ -1,6 +1,6 @@
 println """
 ******************************************
-        Building Mine Your Galaxy 
+        Building MineYourGalaxy 
 
  Output files will be in basePath/build/
 ******************************************
