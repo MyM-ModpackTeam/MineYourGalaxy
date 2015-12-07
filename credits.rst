@@ -72,6 +72,10 @@ Mine Your Galaxy
 - `Spice Of Life <http://minecraft.curseforge.com/mc-mods/220811-the-spice-of-life>`_, squeek502
 - `Steves Factory Manager <http://minecraft.curseforge.com/mc-mods/228626-steves-factory-manager>`_, Vswe
 - `StevesCarts2 <http://minecraft.curseforge.com/mc-mods/228625-steves-carts-2>`_, Vswe
+- `StorageDraws <http://minecraft.curseforge.com/projects/storage-drawers>`_, jaquadro
+- `StorageDraws Misc <http://www.curse.com/mc-mods/Minecraft/235539-storage-drawers-misc-pack>`_, jaquadro
+- `StorageDraws BOP <http://www.curse.com/mc-mods/minecraft/230832-storage-drawers-biomes-o-plenty-pack>`_, jaquadro
+- `StorageDraws Natura <http://www.curse.com/mc-mods/minecraft/230642-storage-drawers-natura-pack>`_, jaquadro
 - `Sync <http://minecraft.curseforge.com/mc-mods/229090-sync>`_, iChun
 - `Thaumcraft <http://minecraft.curseforge.com/mc-mods/223628-thaumcraft>`_, azanor
 - `Thaumcraft NeiPlugin <http://minecraft.curseforge.com/mc-mods/225095-thaumcraft-nei-plugin>`_, DjGiannuzz
